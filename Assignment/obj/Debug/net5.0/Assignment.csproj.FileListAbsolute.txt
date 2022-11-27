@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\Lenovo\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Lenovo\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\Lenovo\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\refint\Assignment.dll
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Assignment\Assignment\obj\Debug\net5.0\ref\Assignment.dll
